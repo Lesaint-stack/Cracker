@@ -16,5 +16,5 @@
 
 # USAGE
 
-# Using Python or more
+# Using Python3 or more
 # Assure that script are in same path with dictionary and file wich contain password 
